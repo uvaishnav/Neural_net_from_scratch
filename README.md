@@ -11,7 +11,4 @@ The %matplotlib inline magic command is used in Jupyter Notebook and JupyterLab 
 ## INITIALIZING NEURAL NETWORK
 layers => no.of layers(L), no.of features(num_features), no.of classes(num_classes)
 for example : net=NeuralNetwork([10, 30, 100, 10])
-![Illustation][def]
-
-
-[def]: images/layers_array.jpeg
+![Illustation](images/png-transparent-two-checked-flags-racing-flags-auto-racing-racing-flag-miscellaneous-game-flag-png-free-download.png)
